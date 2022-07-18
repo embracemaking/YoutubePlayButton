@@ -27,6 +27,7 @@ You will need to visit socialgenius.io and sign up for an account. Follow the in
 
 You can find their original video here:
 > https://www.youtube.com/watch?v=16gZ2CX7qB4
+
 They also have a nice written guide here with details on installing the required libraries 
 > https://hackmakemod.com/blogs/projects/diy-kit-guide-building-your-own-subscription-clock
 

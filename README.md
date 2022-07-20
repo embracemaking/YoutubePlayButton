@@ -5,7 +5,7 @@ This is the repository for the YouTube play button award with live subscriber an
 ![Render1](https://user-images.githubusercontent.com/109498075/179452693-4a783aa7-ede0-47d0-9301-9efcbc31fdde.JPG)
 
 Video instructions here:
->
+> https://youtu.be/4XpCla82xS4
 
 3D models and digital resources here:
 > https://www.printables.com/model/243806-rgb-youtube-play-button-award-with-live-subview-co
